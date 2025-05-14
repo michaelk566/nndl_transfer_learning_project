@@ -14,7 +14,7 @@ From a high-level perspective, the notebook does the following:
 
 3. **Outlier Exposure**  
    * downloads Tiny-ImageNet  
-   * samples 2 000 images and labels them **novel**  
+   * samples 2000 images and labels them **novel**  
    * saves them into `train_images/novel_*.jpg`
 
 4. **Model & training** – dual-head ResNet-50  
@@ -44,7 +44,7 @@ We varied all these flags in our project. Varying the params to match the experi
 
 ---
 
-**Note:** In the code blocks of the notebook we cite whenever we used AI to help geenrate boilerplate code. 
+**Note:** In the code blocks of the notebook we cite whenever we used AI to help generate boilerplate code. 
 
 **Authors:**  
 Michael Khanzadeh — <mmk2258@columbia.edu>  
